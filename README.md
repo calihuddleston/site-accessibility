@@ -11,7 +11,7 @@ In this activity, I edited the code to make it more accessible for search engine
 ![Screen Shot 2022-08-05 at 5 00 33 PM](https://user-images.githubusercontent.com/102004484/183171171-f62ce840-06a3-4623-ad3a-3ab258dff66b.png)
 
 # Deployment
-https://calihuddleston.github.io/challenge-01-site-accessibility/
+https://calihuddleston.github.io/site-accessibility/
 
 # Skills
 HTML
